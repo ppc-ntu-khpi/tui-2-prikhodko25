@@ -14,4 +14,5 @@
 > ![Повний звіт report](https://github.com/ppc-ntu-khpi/tui-2-prikhodko25/blob/master/TUIdemo/src/Mybank/7.png)
 ---
 > ![Команда exit](https://github.com/ppc-ntu-khpi/tui-2-prikhodko25/blob/master/TUIdemo/src/Mybank/8.png)
+---
 
